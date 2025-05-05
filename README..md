@@ -20,7 +20,7 @@ Finalizado
 
 <h3>Acceso al Proyecto</h3>
 Puedes acceder al proyecto a través del sig link:
-
+https://github.com/d1egojr/challenge-allura-store.git
 
 <h3>Desarrollador de la aplicación</h3>
 https://github.com/d1egojr
